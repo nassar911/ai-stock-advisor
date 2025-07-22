@@ -1,0 +1,12 @@
+[theme]
+base="light"
+primaryColor="#4B9CD3"
+
+[server]
+headless = true
+
+[app]
+title = "Real-Time Stock Advisor"
+page_title = "AI Trading Assistant"
+page_icon = ":chart_with_upwards_trend:"
+layout = "wide"

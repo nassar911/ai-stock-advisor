@@ -1,0 +1,6 @@
+git clone https://github.com/YOUR_USERNAME/ai-stock-advisor.git
+cd ai-stock-advisor
+unzip path/to/ai_stock_advisor.zip -d .
+git add .
+git commit -m "Initial AI trading assistant"
+git push origin main
